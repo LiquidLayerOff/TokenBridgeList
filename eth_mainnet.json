@@ -1,0 +1,16 @@
+{
+  "name": "Ethereum Mainnet",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/NEWYORKBLOCKCHAIN/TokenBridgeList/main/eth.png",
+  "keywords": [
+    "eth"
+  ],
+  "tokens": [
+  ]
+}
