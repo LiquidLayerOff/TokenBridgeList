@@ -13,6 +13,13 @@
     "wlila"
   ],
   "tokens": [
-    
+    {
+      "name": "XTEST",
+      "address": "0xb606b53b4Dd14D90eD3ACeb08cC41ED56C4CE307",
+      "symbol": "XTEST",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/LiquidLayerOff/TokenBridgeList/main/lila_logo.png"
+    }
   ]
 }
