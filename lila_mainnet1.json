@@ -1,0 +1,25 @@
+{
+  "name": "LILA Mainnet",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/LiquidLayerOff/TokenBridgeList/main/lila_logo.png",
+  "keywords": [
+    "lila",
+    "wlila"
+  ],
+  "tokens": [
+    {
+      "name": "LUSD",
+      "address": "0xE06E3F32346e0173dE4226eceF5d416d5C32e4D2",
+      "symbol": "LUSD",
+      "decimals": 18,
+      "chainId": 25186,
+      "logoURI": "https://raw.githubusercontent.com/LiquidLayerOff/TokenBridgeList/main/lila_logo.png"
+    }
+  ]
+}
